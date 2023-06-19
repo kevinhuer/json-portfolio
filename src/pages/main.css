@@ -1,0 +1,118 @@
+.FrontPageMain__VisualMenu {
+  align-items: flex-start;
+  color: #0e182a;
+  display: flex;
+  flex-direction: row;
+  flex-grow: 2;
+  justify-content: flex-start;
+}
+
+.FrontPageMain__VisualMenu h2 {
+  background: #11172a;
+  color: white;
+  margin: 0;
+  padding: 1px 10px;
+}
+
+.FrontPageMain__VisualMenu a {
+  text-decoration: none;
+}
+
+.FrontPageMain__Designs {
+  align-items: center;
+  background: url(https://res.cloudinary.com/kjhuer/image/upload/v1686414260/designs_zgdtpa.jpg);
+  background-size: cover;
+  border-top: 20px solid #0e182a;
+  display: flex;
+  flex-grow: 1;
+  height: 100vh;
+  justify-content: flex-start;
+  min-width: 200px;
+}
+
+.FrontPageMain__Designs h2 {
+  padding: 20px 10px;
+  transition: all 0.5s;
+}
+
+.FrontPageMain__Sites {
+  flex-grow: 1;
+}
+
+.FrontPageMain__Sites > a {
+  display: flex;
+  flex-direction: column;
+  height: 50vh;
+}
+
+.FrontPageMain__Sites a:nth-child(1n) {
+  align-items: flex-start;
+  background: url("https://res.cloudinary.com/kjhuer/image/upload/v1686672728/recent-freelance-2_hjij5q.jpg");
+  background-position: top center;
+  background-size: cover;
+  border-bottom: 20px solid #0e182a;
+  border-left: 20px solid #0e182a;
+  justify-content: flex-end;
+}
+.FrontPageMain__Sites a:nth-child(1n) h2 {
+  padding: 20px 10px;
+}
+.FrontPageMain__Sites a:nth-child(2n) {
+  align-items: flex-start;
+  background: url("https://res.cloudinary.com/kjhuer/image/upload/v1686671726/past-agency_k5tbqa.jpg");
+  background-size: cover;
+  border-bottom: 0px solid #0e182a;
+  justify-content: flex-end;
+}
+
+.FrontPageMain__Sites a:nth-child(2n) h2 {
+  padding: 20px 10px;
+}
+
+@media only screen and (max-width: 900px) {
+  .FrontPageMain__VisualMenu {
+    align-items: flex-start;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    justify-content: flex-start;
+  }
+  .FrontPageMain__Designs {
+    align-items: flex-start;
+    background: url("https://res.cloudinary.com/kjhuer/image/upload/v1686414260/designs_zgdtpa.jpg");
+    background-size: cover;
+    display: flex;
+    flex-grow: 1;
+    height: 250px;
+    justify-content: center;
+    width: 100%;
+  }
+  .FrontPageMain__Sites {
+    width: 100%;
+  }
+  .FrontPageMain__Sites > a {
+    align-items: center;
+    display: flex;
+    height: 250px;
+    justify-content: center;
+    width: 100%;
+  }
+  .FrontPageMain__Sites a:nth-child(1n) {
+    align-items: center;
+    background: url("https://res.cloudinary.com/kjhuer/image/upload/v1686672728/recent-freelance-2_hjij5q.jpg");
+    background-position: top center;
+    background-size: cover;
+    border-bottom: 0px solid #0e182a;
+    border-left: 0px solid #0e182a;
+    border-top: 20px solid #0e182a;
+    justify-content: flex-start;
+  }
+  .FrontPageMain__Sites a:nth-child(2n) {
+    align-items: center;
+    background: url("https://res.cloudinary.com/kjhuer/image/upload/v1686671726/past-agency_k5tbqa.jpg");
+    background-size: cover;
+    border-bottom: 0px solid #0e182a;
+    justify-content: flex-start;
+  }
+}

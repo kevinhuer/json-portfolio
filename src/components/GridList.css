@@ -1,0 +1,90 @@
+.GridList {
+  background-color: #0e182a;
+  display: grid;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: 50% 50%;
+  height: 100%;
+}
+
+.GridList__item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  position: relative;
+  z-index: 10;
+}
+
+.GridList__item-image {
+  margin: 0 auto;
+  opacity: 1;
+  transition: all 0.5s;
+  width: 90%;
+}
+
+.GridList__item {
+  text-decoration: none;
+  transition: all 0.5s;
+}
+
+.GridList__item h2 {
+  border-bottom: 1px solid #334153;
+  color: #b9b9b9;
+  margin: 0;
+  padding: 3px 10px;
+  text-align: center;
+  transition: all 0.5s;
+}
+
+.GridList__item::after {
+  background: #0e182afa;
+  content: "";
+  height: 100%;
+  position: absolute;
+  transition: all 0.5s;
+  width: 100%;
+  z-index: -1;
+}
+
+.GridList__item:hover .GridList__item-image {
+  opacity: 0;
+  transform: scale(0.8);
+  transition: all 0.5s;
+}
+
+.GridList__item:hover h2 {
+  background: #0e182a;
+  border-bottom: 1px solid #32bdff;
+  color: white;
+  transform: translateY(-20px);
+  transition: all 0.5s;
+}
+
+.GridList__item:hover::after {
+  background: #0e182a32;
+  content: "";
+  height: 100%;
+  position: absolute;
+  transition: all 0.5s;
+  width: 100%;
+  z-index: -1;
+}
+
+@media only screen and (max-width: 1200px) {
+  .GridList {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    grid-template-rows: 50% 50% 50%;
+    height: 100%;
+  }
+}
+
+@media only screen and (max-width: 900px) {
+  .GridList {
+    display: flex;
+    flex-direction: column;
+  }
+  .GridList__item {
+    padding: 20px 0;
+  }
+}

@@ -1,0 +1,42 @@
+.MobileMenu {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.MobileMenu ul {
+  align-items: flex-end;
+  display: flex;
+  display: none;
+  flex-direction: column;
+  justify-content: flex-end;
+  list-style: none;
+  padding-right: 20px;
+}
+
+.MobileMenu ul.open {
+  display: block;
+}
+
+.MobileMenu ul a {
+  border-bottom: 1px solid #334153;
+  color: #434343;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.5s;
+}
+
+.MobileMenu__toggle {
+  background: #334153;
+  border-color: #334153;
+  border-radius: 5px;
+  box-shadow: none;
+  color: white;
+  cursor: pointer;
+  margin: 10px;
+  padding: 3px 10px;
+  width: 70px;
+}

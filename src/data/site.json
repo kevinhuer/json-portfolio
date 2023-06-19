@@ -1,0 +1,50 @@
+[
+    {
+        "title": "Arcade for Airways",
+        "description": "<p>This site, along with others listed under client work are created using input from myself and various subject matter experts. I do not take full credit for them (unlike the designs listed under design work). This work is not a product of sheer creativity or skill, it's a product of great teamwork, patience, trust and communication.</p>",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686331561/arcade-for-airways-mainmockup_rwhlh3.png",
+        "siteUrl": "https://arcadeforairways.ca",
+        "type": "freelance",
+        "pathName": "freelance/arcade-for-airways"
+    },
+    {
+        "title": "Quintero",
+        "description": "<p>This site, along with others listed under client work are created using input from myself and various subject matter experts. I do not take full credit for them (unlike the designs listed under design work). This work is not a product of sheer creativity or skill, it's a product of great teamwork, patience, trust and communication.</p>",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686331561/quinter-mainmockup_zcz3pb.png",
+        "siteUrl": "https://quintero.ca",
+        "type": "freelance",
+        "pathName": "freelance/quintero"
+    },
+    {
+        "title": "Pivot Sports Medicine",
+        "description": "<p>This site, along with others listed under client work are created using input from myself and various subject matter experts. I do not take full credit for them (unlike the designs listed under design work). This work is not a product of sheer creativity or skill, it's a product of great teamwork, patience, trust and communication.</p>",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686331562/pivot-mainmockup_cbyqfk.png",
+        "siteUrl": "https://pivotsmo.com",
+        "type": "freelance",
+        "pathName": "freelance/pivot-sports-medicine"
+    },
+    {
+        "title": "Polytainers",
+        "description": "<p>I worked on this website as a secondary developer with my team lead. It was a nice sized project with unique elements that feature their products nicely.</p>",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686411421/polytainers_l53k4u.png",
+        "siteUrl": "https://www.polytainersinc.com/",
+        "type": "agency",
+        "pathName": "agency/polytainers"
+    },
+    {
+        "title": "Jamco Mechanical",
+        "description": "<p>This website highlights Jamco's business, services and products. The website also features a gallery of work completed along with testimonials from satisfied customers. It features a simple, straight forward design with the focus on answering customer questions efficiently.</p>",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686411421/jamco-mockup_iofgyy.png",
+        "siteUrl": "http://www.jamcomechanical.ca/",
+        "type": "agency",
+        "pathName": "agency/jamco-mechanical"
+    },
+    {
+        "title": "B-N-C Plumbing Company",
+        "description": "<p>Small business website focused on conveying important information for potential customers. The website features various section including about, services, products and promotions.</p>",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686411421/b-n-c-full-mockup_g20tt7.png",
+        "siteUrl": "http://www.bncplumbingcompany.com/",
+        "type": "agency",
+        "pathName": "agency/b-n-c-plumbing-company"
+    }
+]

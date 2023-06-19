@@ -1,0 +1,57 @@
+.TextMenu {
+  background: #0e182a;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  font-size: 1.2rem;
+  height: 100vh;
+  justify-content: center;
+  max-width: 400px;
+  min-width: 400px;
+}
+.TextMenu a {
+  border-bottom: 1px solid #334153;
+  color: #b9b9b9;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-decoration: none;
+  text-transform: uppercase;
+  transition: all 0.5s;
+}
+
+.TextMenu a.active {
+  border-bottom: 1px solid #32bdff;
+  color: white;
+}
+
+.TextMenu a:hover {
+  border-bottom: 1px solid #32bdff;
+  color: white;
+  transition: all 0.5s;
+}
+
+.TextMenu > div {
+  margin-left: 40px;
+}
+
+.TextMenu ul {
+  list-style: none;
+  margin-left: 0;
+}
+
+@media only screen and (max-width: 900px) {
+  .TextMenu {
+    background: #0e182a;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    flex-grow: 1;
+    font-size: 1.2rem;
+    height: auto;
+    justify-content: flex-start;
+    max-width: 100%;
+    min-width: revert;
+    width: 100%;
+  }
+}

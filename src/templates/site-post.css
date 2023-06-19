@@ -1,0 +1,14 @@
+.SitePost {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.SitePost__url {
+  margin-top: -20px;
+}
+
+.SitePost__url a {
+  color: #0e182a;
+}

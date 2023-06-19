@@ -1,0 +1,45 @@
+[
+    {
+        "title": "Cooking",
+        "description": "<p>A full description for this design will be coming soon.</p>",
+        "fullMockupUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_scale,w_800/v1680574742/portfolio/Cooking_full_mockup.jpg",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686331564/cooking-main-mockup_ki3ri1.png",
+        "pathName": "design/cooking"
+    },
+    {
+        "title": "Simple Fitness",
+        "description": "<p>Designing a website for a gym membership website requires careful consideration of the target audience and the services offered. The website should be designed to be easy to navigate and visually appealing. The use of high-quality images and videos showcasing the facilities, equipment, and trainers can help build credibility and trust with potential customers. A responsive design that adapts to different devices, such as desktops, laptops, tablets, and smartphones, is essential to ensure a seamless browsing experience. Clear calls-to-action and easy-to-find contact information can help potential customers sign up for membership or reach out with questions.</p><p>When designing a gym membership website, it's important to keep in mind the features that members will find useful. Membership plans should be easy to access and clearly displayed. Online booking and payment systems can help streamline the membership process and encourage members to return to the gym.</p>",
+        "fullMockupUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_scale,w_800/v1680574690/portfolio/simple-fitness-large-mockup.jpg",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686331562/simple-fitness-main-mockup_vriwqr.png",
+        "pathName": "design/simple-fitness"
+    },
+    {
+        "title": "Fun in the Sun",
+        "description": "<p>The Fun in the Sun website design is visually appealing design and showcases clothing products in an attractive manner. For this particular website design, I've used a color scheme of blue and pink to evoke a fun, playful and summery vibe. The header of the website features the name of the clothing campaign in bold font with a fun summer-themed graphic. The header also includes a navigation bar with clear categories, such as Men's, Women's, and Children's clothing.</p>",
+        "fullMockupUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_scale,w_800/v1680574732/portfolio/fun-in-the-sun.jpg",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686331565/fun_in_the_sun_main_mockup_vefdeq.png",
+        "pathName": "design/fun-in-the-sun"
+    },
+    {
+        "title": "I'll raise you",
+        "description": "<p>A fundraising website design featuring a large, prominent “donate now” button is an effective way to both attract and inform potential donors. The bright blue and yellow colours of this design create a cheerful, energetic atmosphere that encourages visitors to take action and donate. For fundraising websites, a large “donate now” button should be prominently displayed and easy to find on the page, ensuring that visitors will not miss the opportunity to donate. Mission, vision, and values statements provide visitors with an understanding of the organization’s goals and objectives, while the news section serves as an engaging way to learn about the organization’s recent activities and successes.</p><p>This type of website design helps to create an engaging, informative experience for potential donors, and encourages them to take action. By combining bright colors, a prominent donate button, mission vision values, and a news section, a fundraising website can attract more donors and raise more funds for the organization.</p>",
+        "fullMockupUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_scale,w_800/v1680574699/portfolio/IllRaiseYou.jpg",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686331562/illraiseyou-mockup_xugjsu.png",
+        "pathName": "design/ill-raise-you"
+    },
+    {
+        "title": "Charged",
+        "description": "<p>A website featuring bold colors, parallax movement and a large CTA for a music venue is a great way to showcase the unique atmosphere of the venue and draw in potential customers. Bold colors, such as neon pink and electric purple, can create a vibrant atmosphere and draw the eye of visitors. Parallax movement helps to create an immersive experience for visitors, providing a sense of depth and movement to the page. A large CTA, such as “Book Now” or “Call today”, is essential for any website and can help encourage visitors to take action.</p><p>The combination of these elements creates an engaging, dynamic website that encourages visitors to explore and book tickets for the venue. By utilizing bold colors, parallax movement, and a large CTA, the website is able to capture the energy of the venue and provide a memorable experience for visitors. This type of website design is a great way to promote a music venue and encourage potential customers to attend events.</p>",
+        "fullMockupUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_scale,w_800/v1680574714/portfolio/charged_2.jpg",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686331564/charged-mockup_pjct7n.png",
+        "pathName": "design/charged"
+    },
+    {
+        "title": "Minimalist",
+        "description": "<p>Minimalist web design featuring hexagon patterns and light purple is a modern, visually appealing way to engage viewers. Hexagons are a timeless geometric shape, and the use of hexagon patterns in web design helps create a unique, attractive aesthetic. Light purple is a soothing, uplifting color that helps soften the overall look and feel of the design, while also providing a sense of peace and tranquility.</p><p>The combination of these elements creates a stunning, calming atmosphere that encourages users to stay and explore the website. This minimalist design focuses on simplicity, allowing the hexagon shapes and light purple color to be the star of the show. Overall, the minimalist web design featuring hexagon patterns and light purple is an attractive and modern option for any website</p>",
+        "fullMockupUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_scale,w_800/v1680574707/portfolio/minimalist.jpg",
+        "featuredImageUrl": "https://res.cloudinary.com/kjhuer/image/upload/c_thumb,w_600/v1686331564/minimalist-mockup.jpg_orbrrf.png",
+        "pathName": "design/minimalist"
+    }
+]
+
