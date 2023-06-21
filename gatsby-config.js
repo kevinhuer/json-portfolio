@@ -15,6 +15,12 @@ module.exports = {
     siteUrl: `https://kevinhuer.com/`,
   },
   plugins: [
+    {
+      resolve: 'gatsby-plugin-html-attributes',
+      options: {
+        lang: 'en-US'
+      }
+    },
     `gatsby-plugin-image`,
     {
       resolve: `gatsby-source-filesystem`,
